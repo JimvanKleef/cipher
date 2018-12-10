@@ -7,7 +7,7 @@ environment:
   sdk: '>=0.8.10+6 <3.0.0'
 documentation: http://izaera.github.io/cipher/api/
 dependencies:
-  bignum: '>=0.1.0'
+  bignum: any
   fixnum: '>=0.10.9'
 dev_dependencies:
   benchmark_harness: '>=1.0.4 <2.0.0'
